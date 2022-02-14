@@ -11,4 +11,4 @@ Dividido em 10 etapas:
 - Fila (Redis 3.2) e workers
 - Escalar
 - 12 Factors (Criacao de variaveis de ambiente)
-- Sobreescrevendo localmente
+- Sobreescrevendo localmente.
